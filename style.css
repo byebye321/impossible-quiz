@@ -1,0 +1,52 @@
+body {
+  background: url(1377467808113.jpg);
+}
+
+
+#restart {
+  width: 30px;
+  height: 15px;
+  background-color: grey;
+  color: #1aff1a;
+  border-radius: 15%;
+  font-size: 4px;
+  border: 3px solid black;
+  margin-left: 1200px;
+}
+
+button {
+  width:200px;
+  height: 175px;
+  background-color: black;
+  border-radius: 25%;
+  color: #1aff1a;
+  font-size: 20px;
+  border: 10px double green;
+  margin: 50px;
+}
+
+
+div {
+  color: #1aff1a;
+  font-size: 30px;
+  /*text-shadow: #008000;*/
+  font-family: sans-serif;
+  text-shadow: -10px 0 black, 0 10px #008000, 10px 0 grey, 0 10px #008000;
+}
+
+h1 {
+  color: #1aff1a;
+  font-size: 100px;
+  text-shadow: -10px 0 black, 0 30px #008000, 30px 0 grey, 0 30px #008000;
+}
+
+
+#Player1Score{
+  padding: 30px;
+  margin: 10px;
+}
+
+#Player2Score{
+  padding: 30px;
+  margin: 10px;
+}
